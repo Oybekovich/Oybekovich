@@ -1,18 +1,20 @@
 # Olimboyev A'lobek
 
-**`Backend Engineer & Frontend Skills`**
+**`Frontend Developer`**
 
-I'm a developer building toward **full-stack** — solid on the frontend (HTML, CSS, JavaScript, Tailwind) and now growing into the backend: the APIs, services, and data layer that power real products. I care about clean, responsive interfaces *and* the reliable systems behind them. Currently studying at **"Al-Xorazmiy Vorislari"**. Based in Khorezm, Uzbekistan.
+I'm a frontend developer who loves building **clean, responsive, and user-friendly web interfaces**. I work with HTML, CSS, JavaScript, Tailwind CSS, and SCSS — turning designs into fast, accessible pages that look great on every screen. Studying at **"Al-Xorazmiy Vorislari"** since 2024. Based in Khorezm, Uzbekistan.
 
-Building in public — open to junior backend / full-stack roles, freelance projects, and collaboration.
+Open to junior frontend roles, freelance projects, and collaboration.
 
 ---
 
-### 🚀 What I'm learning & building toward
+### 🎯 What I focus on
 
-- **Full-stack foundation** — combining my frontend skills with backend development to ship complete products, not just demos
-- **Backend with JavaScript & Supabase** — REST APIs, authentication, and the data layer (PostgreSQL)
-- **First real full-stack projects** — coming soon; building in public, one commit at a time
+- **Responsive design** — layouts that work across mobile, tablet, and desktop
+- **Modern styling** — design systems with Tailwind CSS and SCSS, cross-browser compatible
+- **Interactive UI with JavaScript** — quizzes, themes, filters, and dynamic components
+- **Clean code & Git workflow** — version control and readable, maintainable code
+- **Freelance** — building responsive web interfaces for client projects since 2024
 
 ---
 
@@ -40,19 +42,33 @@ Building in public — open to junior backend / full-stack roles, freelance proj
 
 ---
 
-### 🌐 Frontend work
+### 🌐 Projects
 
-Live projects on my portfolio — **[oybekovic.uz](https://oybekovic.uz)**
+All live on my portfolio — **[oybekovic.uz](https://oybekovic.uz)**
 
-- **TechNova** — responsive tech e-commerce interface (HTML, CSS, JavaScript)
-- **DAK Quiz** — interactive exam-prep app with practice/test modes and dark-light theme
-- **Astro Gaming** — modern gaming landing page (Tailwind CSS + JavaScript)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Hisobim](https://hisobim-website.vercel.app/)** | Personal finance app — track income and expenses by category with clear visual summaries | HTML, CSS, JavaScript |
+| **[DAK Quiz](https://dak-quiz.vercel.app/)** | Exam-prep app with practice/test modes, 50 random questions per session, shuffle mode, dark/light theme | HTML, CSS, JavaScript |
+| **[TechNova](https://technova-77.vercel.app/)** | E-commerce interface for tech products — laptops, computers, and accessories | HTML, CSS, JavaScript |
+| **[Astro Gaming](https://astro-gaming-project.vercel.app/)** | Gaming-themed landing page with dynamic layouts and interactive components | HTML, Tailwind CSS, JavaScript |
+| **[Nature Conservation](https://nature-conservation.vercel.app/)** | Responsive landing page on environmental awareness, built with semantic HTML | HTML, CSS |
+
+---
+
+### 📜 Certificates
+
+- JavaScript for Beginners — *UC Davis / Coursera*
+- Intermediate Git and GitHub Workflow — *Packt / Coursera*
+- Advanced Git and GitHub Features — *Packt / Coursera*
+- Introduction to Generative AI — *Google Cloud / Coursera*
+- Build AI Apps with ChatGPT, Dall-E, and GPT-4 — *Scrimba / Coursera*
 
 ---
 
 ### 📬 Let's work together
 
-Open to backend / full-stack roles, freelance projects, and collaboration.
+Open to frontend roles, freelance projects, and collaboration.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alobek-olimboyev-a30a913b3/)
 - 🌐 [Portfolio — oybekovic.uz](https://oybekovic.uz)
